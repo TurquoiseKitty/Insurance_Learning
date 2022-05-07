@@ -1,0 +1,9 @@
+.vscode/*
+
+hello.py
+
+.ipynb*
+
+*.log
+
+__pycache__/*
