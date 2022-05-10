@@ -1,9 +1,5 @@
-.vscode/*
-
-hello.py
-
 .ipynb*
 
 *.log
 
-__pycache__/*
+.DS*

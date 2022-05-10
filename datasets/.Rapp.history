@@ -1,0 +1,3 @@
+load("/Users/turquoisekitty/Desktop/powers/Insurance_Learning/datasets/ausprivauto0405.rda")
+df
+df = load("/Users/turquoisekitty/Desktop/powers/Insurance_Learning/datasets/ausprivauto0405.rda")
